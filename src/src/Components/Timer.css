@@ -1,0 +1,11 @@
+.outer-box{
+    background: gray;
+    border-radius: 7px;
+    /* box-shadow: 0 2px 5px #ccc; */
+    padding-top:10px;
+    padding-bottom: 10px;
+    width: 240px;
+   text-align : center;
+   
+}
+
